@@ -17,15 +17,20 @@ This project focuses on analyzing Swiggy sales data using Python to uncover insi
 
 Tools & Technologies Used
 
-Python
-Pandas – Data cleaning, transformation, and analysis
-Matplotlib – Basic static visualizations
-Seaborn – Advanced statistical visualizations
-Plotly – Interactive and dynamic visualizations
+a)Python
+
+b)Pandas – Data cleaning, transformation, and analysis
+
+c)Matplotlib – Basic static visualizations
+
+d)Seaborn – Advanced statistical visualizations
+
+e)Plotly – Interactive and dynamic visualizations
 
  Use of Plotly
 
 Plotly was used to create interactive visualizations that allow users to:
+
 Explore sales trends dynamically
 View detailed insights using hover tooltips
 Zoom and interact with charts for better understanding
